@@ -1,2 +1,3 @@
-# programs.cpp
-Repository of collected and versioned cpp programs
+# Programs in c++
+This Repository collets various c++ programs ready for compilation and use on every platform provided with a c++ compiler.
+
